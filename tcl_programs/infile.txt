@@ -1,0 +1,4 @@
+Tcl: I am good. How about you?
+Sushil: Well, I am doing good these days. So tough is learning you(tcl)
+Tcl: Well, If you practice me, I am easy to be grabbed.
+Sushil: Alright, Even if you are hard, I will grab you :) 
